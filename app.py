@@ -31,8 +31,6 @@ def process_worksheet(filename: str, new_file_name: str = None):
 
 process_worksheet("transactions.xlsx", "transactions2.5.xlsx")
 
-
-
 # from pathlib import Path
 #
 # path = Path()
